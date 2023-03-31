@@ -1,0 +1,17 @@
+.banner{
+    height: 500px;
+    background-image: url(/assets/banner.jpg);
+    background-size: 100%;
+    background-position-y: -60% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+
